@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saga.Api", "saga.Api\saga.Api.csproj", "{256BD8E4-90F9-46C4-92A6-A9D5B876673E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saga.Dal", "saga.Dal\saga.Dal.csproj", "{46B1533B-4FFB-4427-B3F6-0BA225741ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saga.Domain", "saga.Domain\saga.Domain.csproj", "{E3C79D21-5182-4500-BB4A-4007A2E8553F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{256BD8E4-90F9-46C4-92A6-A9D5B876673E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256BD8E4-90F9-46C4-92A6-A9D5B876673E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256BD8E4-90F9-46C4-92A6-A9D5B876673E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256BD8E4-90F9-46C4-92A6-A9D5B876673E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46B1533B-4FFB-4427-B3F6-0BA225741ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B1533B-4FFB-4427-B3F6-0BA225741ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B1533B-4FFB-4427-B3F6-0BA225741ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B1533B-4FFB-4427-B3F6-0BA225741ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C79D21-5182-4500-BB4A-4007A2E8553F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C79D21-5182-4500-BB4A-4007A2E8553F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C79D21-5182-4500-BB4A-4007A2E8553F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C79D21-5182-4500-BB4A-4007A2E8553F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB4AFB4B-92EB-4516-86E2-D85F68984BF1}
+	EndGlobalSection
+EndGlobal

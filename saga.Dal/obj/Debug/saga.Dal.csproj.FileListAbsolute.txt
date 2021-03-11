@@ -1,0 +1,6 @@
+C:\repos\saga\saga.Dal\bin\Debug\saga.Dal.dll
+C:\repos\saga\saga.Dal\bin\Debug\saga.Dal.pdb
+C:\repos\saga\saga.Dal\obj\Debug\saga.Dal.csprojAssemblyReference.cache
+C:\repos\saga\saga.Dal\obj\Debug\saga.Dal.csproj.CoreCompileInputs.cache
+C:\repos\saga\saga.Dal\obj\Debug\saga.Dal.dll
+C:\repos\saga\saga.Dal\obj\Debug\saga.Dal.pdb
