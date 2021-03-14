@@ -4,3 +4,9 @@ C:\repos\saga\saga.Domain\obj\Debug\saga.Domain.csprojAssemblyReference.cache
 C:\repos\saga\saga.Domain\obj\Debug\saga.Domain.csproj.CoreCompileInputs.cache
 C:\repos\saga\saga.Domain\obj\Debug\saga.Domain.dll
 C:\repos\saga\saga.Domain\obj\Debug\saga.Domain.pdb
+C:\repos\saga\saga.Domain\bin\Debug\saga.Domain.dll.config
+C:\repos\saga\saga.Domain\bin\Debug\EntityFramework.dll
+C:\repos\saga\saga.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\repos\saga\saga.Domain\bin\Debug\EntityFramework.xml
+C:\repos\saga\saga.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\repos\saga\saga.Domain\obj\Debug\saga.Domain.csproj.CopyComplete

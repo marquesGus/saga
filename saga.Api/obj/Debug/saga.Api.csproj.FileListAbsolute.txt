@@ -80,3 +80,7 @@ C:\repos\saga\saga.Api\obj\Debug\saga.Api.csproj.CoreCompileInputs.cache
 C:\repos\saga\saga.Api\obj\Debug\saga.Api.csproj.CopyComplete
 C:\repos\saga\saga.Api\obj\Debug\saga.Api.dll
 C:\repos\saga\saga.Api\obj\Debug\saga.Api.pdb
+C:\repos\saga\saga.Api\bin\EntityFramework.dll
+C:\repos\saga\saga.Api\bin\EntityFramework.SqlServer.dll
+C:\repos\saga\saga.Api\bin\EntityFramework.xml
+C:\repos\saga\saga.Api\bin\EntityFramework.SqlServer.xml
