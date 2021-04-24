@@ -59,6 +59,18 @@
     <Compile Include="Entities\User.cs" />
     <Compile Include="Entities\Wishlist.cs" />
     <Compile Include="Enums\ProfessionEnum.cs" />
+    <Compile Include="Interfaces\IRepository.cs" />
+    <Compile Include="Interfaces\ISagaUnitOfWork.cs" />
+    <Compile Include="Interfaces\IUnitOfWork.cs" />
+    <Compile Include="Interfaces\ICastRepository.cs" />
+    <Compile Include="Interfaces\ICompanyRepository.cs" />
+    <Compile Include="Interfaces\IGenderRepository.cs" />
+    <Compile Include="Interfaces\IMovieRepository.cs" />
+    <Compile Include="Interfaces\IMovieGenderRepository.cs" />
+    <Compile Include="Interfaces\IMovieRatingRepository.cs" />
+    <Compile Include="Interfaces\IPersonRepository.cs" />
+    <Compile Include="Interfaces\IWishlistRepository.cs" />
+    <Compile Include="Interfaces\IUserRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
