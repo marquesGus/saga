@@ -10,9 +10,9 @@ namespace saga.Dal.Repository
 {
     public class CastRepository : Repository<Cast>, ICastRepository
     {
-        IUnitOfWork unitOfWork = new SagaContext();
+        SagaContext unitOfWork = new SagaContext();
 
-        public CastRepository(IUnitOfWork unitOfWork)
+        public CastRepository(SagaContext unitOfWork)
             : base(unitOfWork)
         {
 

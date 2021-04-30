@@ -10,9 +10,9 @@ namespace saga.Dal.Repository
 {
     public class UserRepository : Repository<User>, IUserRepository
     {
-        IUnitOfWork unitOfWork = new SagaContext();
+        SagaContext unitOfWork = new SagaContext();
 
-        public UserRepository(IUnitOfWork unitOfWork)
+        public UserRepository(SagaContext unitOfWork)
             : base(unitOfWork)
         {
 

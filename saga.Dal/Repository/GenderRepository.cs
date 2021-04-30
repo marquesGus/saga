@@ -10,9 +10,9 @@ namespace saga.Dal.Repository
 {
     public class GenderRepository : Repository<Gender>, IGenderRepository
     {
-        IUnitOfWork unitOfWork = new SagaContext();
+        SagaContext unitOfWork = new SagaContext();
 
-        public GenderRepository(IUnitOfWork unitOfWork)
+        public GenderRepository(SagaContext unitOfWork)
             : base(unitOfWork)
         {
 

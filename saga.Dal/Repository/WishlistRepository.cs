@@ -10,9 +10,9 @@ namespace saga.Dal.Repository
 {
     public class WishlistRepository : Repository<Wishlist>, IWishlistRepository
     {
-        IUnitOfWork unitOfWork = new SagaContext();
+        SagaContext unitOfWork = new SagaContext();
 
-        public WishlistRepository(IUnitOfWork unitOfWork)
+        public WishlistRepository(SagaContext unitOfWork)
             : base(unitOfWork)
         {
 

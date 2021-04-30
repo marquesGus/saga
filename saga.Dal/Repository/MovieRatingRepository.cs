@@ -10,9 +10,9 @@ namespace saga.Dal.Repository
 {
     public class MovieRatingRepository : Repository<MovieRating>, IMovieRatingRepository
     {
-        IUnitOfWork unitOfWork = new SagaContext();
+        SagaContext unitOfWork = new SagaContext();
 
-        public MovieRatingRepository(IUnitOfWork unitOfWork)
+        public MovieRatingRepository(SagaContext unitOfWork)
             : base(unitOfWork)
         {
 

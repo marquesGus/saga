@@ -13,7 +13,7 @@ namespace saga.Domain.Interfaces
         IGenderRepository Gender { get; }
         IMovieGenderRepository MovieGender { get; }
         IMovieRatingRepository MovieRating { get; }
-        IMovieRepository MovieRepository { get; }
+        IMovieRepository Movie { get; }
         IPersonRepository Person { get; }
         IUserRepository User { get; }
         IWishlistRepository Wishlist { get; }

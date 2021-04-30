@@ -4,7 +4,7 @@ using System.Data.Entity;
 
 namespace saga.Dal
 {
-    public class SagaContext : DbContext, IUnitOfWork
+    public class SagaContext : DbContext
     {
         public DbSet<User> Cast { get; set; }
         public DbSet<Company> Company { get; set; }
